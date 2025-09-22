@@ -1,2 +1,2 @@
 # The-Odin-Project
-Rushing through TOP as a refresher for fullstack dev
+Rushin thru TOP as a refresher for fullstack dev
